@@ -1,0 +1,11 @@
+{
+  "name": "Node.js",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:22",
+  "customizations": {
+    "codesandbox": {
+      "setup": {
+        "installDependencies": true
+      }
+    }
+  }
+}
